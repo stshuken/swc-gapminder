@@ -1,0 +1,6 @@
+]0;~/Documents/Miscellaneous/Programming/2018 Software Carpentry Workshop R/2_R/R-intro[?1034hDN525v9k:R-intro stevenshuken$ [KDN525v9k:R-intro stevenshuken$ mv feline-data.s[Kcsv data/
+[KDN0a22f933:R-intro stevenshuken$ install.packages('tidyverse')
+bash: syntax error near unexpected token `'tidyverse''
+]0;~/Documents/Miscellaneous/Programming/2018 Software Carpentry Workshop R/2-3_R/R-introDN0a22f933:R-intro stevenshuken$ install.packages('tidyverse')[1P)[1Ptidyverse)"tidyverse)[C[C[C[C[C[C[C[C[C")
+bash: syntax error near unexpected token `"tidyverse"'
+]0;~/Documents/Miscellaneous/Programming/2018 Software Carpentry Workshop R/2-3_R/R-introDN0a22f933:R-intro stevenshuken$ i[Kgit [K[K[K[Kgitsdk[K[K status[K[K[K[K[K[K[K[K[K[K[K status[K[K[K[K[K[K[Klkj;lkajsd slsk

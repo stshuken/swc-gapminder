@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522267709417.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "528B359B",
+    "lastKnownWriteTime" : 1522269815,
+    "last_content_update" : 1522269815356,
+    "path" : "~/Documents/Miscellaneous/Programming/2018 Software Carpentry Workshop R/2-3_R/R-intro/r-intro-script.R",
+    "project_path" : "r-intro-script.R",
+    "properties" : {
+        "cursorPosition" : "17,22",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522270905656.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2674198452",
+    "id" : "3A7EF11B",
+    "lastKnownWriteTime" : 1522270844,
+    "last_content_update" : 1522270844,
+    "path" : "~/Documents/Miscellaneous/Programming/2018 Software Carpentry Workshop R/2_R/R-intro/data/feline-data.csv",
+    "project_path" : "data/feline-data.csv",
+    "properties" : {
+        "cursorPosition" : "5,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

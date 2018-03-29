@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1522271800976.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2577427849",
+    "id" : "96DDA57D",
+    "lastKnownWriteTime" : 1522278267,
+    "last_content_update" : 1522278267961,
+    "path" : "~/Documents/Miscellaneous/Programming/2018 Software Carpentry Workshop R/2_R/R-intro/R-prep-challenges.R",
+    "project_path" : "R-prep-challenges.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "25",
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
